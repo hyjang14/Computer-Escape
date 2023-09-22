@@ -29,11 +29,11 @@ https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pl
 ### 💻 개발 관련 정보
 #### (1) 프로젝트 인원: 총 8명
 
-기획자: 2명
+- 기획자: 2명
 
-디자이너: 2명
+- 디자이너: 2명
 
-개발자: 5명
+- 개발자: 5명
 
 #### (2) 사용 언어: Lua
 
@@ -43,9 +43,7 @@ https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pl
 - 게임 엔진:  Solar2D
 - 'JDK 15.0.2'
 
-#### (4) 개발 참고 사이트 
-
-https://docs.coronalabs.com/
+#### (4) 개발 참고 사이트: https://docs.coronalabs.com/
 
 #### (5) 내가 맡은 게임 파트
 
