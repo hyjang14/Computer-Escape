@@ -45,7 +45,7 @@
 
 - 코드 에디터: Sublime Text3 or VScode
 - 게임 엔진:  Solar2D
-- 'JDK 15.0.2'
+- jdk-15.0.2
 
 ### 4. 개발 참고 사이트
 
