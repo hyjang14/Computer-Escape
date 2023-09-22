@@ -4,4 +4,4 @@
 23/09/22 금
 # 2. 게임 다운로드 URL
 https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pli=1
-# 3. 게임 관련 정보
+
