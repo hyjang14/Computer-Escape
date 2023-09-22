@@ -19,16 +19,16 @@
 어쩌면 숨겨진 결말이 기다리고 있을지도..?
 
 ## 🕰️ 개발 기간
-23/07 ~ 23/09/20 (약 3달)
+- 23/07 ~ 23/09/20 (약 3달)
 
 ## 🖥️ 게임 출시일
-23/09/22 금
+- 23/09/22 금
 
 ## 🌐 게임 출시 장소
-Google Play 스토어
+- Google Play 스토어
 
 ## 🌐 게임 다운로드 URL
-https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pli=1
+- https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pli=1
 
 ## 🖥️ 개발 관련 정보
 ### 1. 프로젝트 총인원: 8명
@@ -49,7 +49,7 @@ https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pl
 
 ### 4. 개발 참고 사이트
 
-https://docs.coronalabs.com/
+- https://docs.coronalabs.com/
 
 ### 5. 내가 맡은 게임 파트
 
