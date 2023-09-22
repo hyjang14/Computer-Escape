@@ -43,7 +43,9 @@ https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pl
 - 게임 엔진:  Solar2D
 - 'JDK 15.0.2'
 
-### 4. 개발 참고 사이트: https://docs.coronalabs.com/
+### 4. 개발 참고 사이트
+
+https://docs.coronalabs.com/
 
 ### 5. 내가 맡은 게임 파트
 
