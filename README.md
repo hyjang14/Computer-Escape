@@ -31,7 +31,7 @@ Google Play 스토어
 https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pli=1
 
 ## 🖥️ 개발 관련 정보
-### 1. 프로젝트 인원: 총 8명
+### 1. 프로젝트 총인원: 8명
 
 - 기획자: 2명
 
