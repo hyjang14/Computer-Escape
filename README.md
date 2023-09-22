@@ -14,22 +14,26 @@
 - 숨어있는 이벤트들을 찾아 즐겨보세요.
 어쩌면 숨겨진 결말이 기다리고 있을지도..?
 
-## 1. 게임 출시일
-23/09/22 금
-## 2. 게임 출시 앱
-Google play 스토어
-## 3. 게임 다운로드 URL
-https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pli=1
-## 4. 게임 관련 정보
-(1) 인원: 
-기획자: 2명
+## 2. 개발 기간
+23/07 ~ 23/09/20 (약 3달)
 
+## 3. 게임 출시일
+23/09/22 금
+
+## 4. 게임 출시 앱
+Google play 스토어
+
+## 5. 게임 다운로드 URL
+https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pli=1
+
+## 6. 개발 관련 정보
+(1) 프로젝트 인원: 
+
+기획자: 2명
 
 디자이너: 2명
 
-
 개발자: 5명
-
 
 --> 총 8명
 
