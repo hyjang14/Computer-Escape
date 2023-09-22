@@ -35,9 +35,7 @@ https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pl
 
 개발자: 5명
 
-#### (2) 사용 언어
-
-Lua
+#### (2) 사용 언어: Lua
 
 #### (3) 개발 환경 
 
