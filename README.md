@@ -27,7 +27,7 @@ Google play 스토어
 https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pli=1
 
 ### 💻 개발 관련 정보
-#### (1) 프로젝트 인원: 총 8명
+#### 1. 프로젝트 인원: 총 8명
 
 - 기획자: 2명
 
@@ -35,17 +35,17 @@ https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pl
 
 - 개발자: 5명
 
-#### (2) 사용 언어: Lua
+#### 2. 사용 언어: Lua
 
-#### (3) 개발 환경 
+#### 3. 개발 환경 
 
 - 코드 에디터: Sublime Text3 or VScode
 - 게임 엔진:  Solar2D
 - 'JDK 15.0.2'
 
-#### (4) 개발 참고 사이트: https://docs.coronalabs.com/
+#### 4. 개발 참고 사이트: https://docs.coronalabs.com/
 
-#### (5) 내가 맡은 게임 파트
+#### 5. 내가 맡은 게임 파트
 
 - 인터넷 로그인 게임
 - 틀린 그림 찾기 게임
