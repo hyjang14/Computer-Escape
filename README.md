@@ -30,33 +30,6 @@
 ## 🌐 게임 다운로드 URL
 - https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pli=1
 
-## 🖥️ 개발 관련 정보
-### 1. 프로젝트 총인원: 8명
-
-- 기획자: 2명
-
-  -> 게임 전체/세부 스토리 구성
-
-- 디자이너: 2명
-
-  -> UI/캐릭터/오브제 디자인, 영상 제작
-
-- 개발자: 5명
-
-  -> 게임 구현
-
-### 2. 사용 언어: Lua
-
-### 3. 개발 환경 
-
-- 코드 에디터: Sublime Text3 or VScode
-- 게임 엔진:  Solar2D
-- jdk-15.0.2
-
-### 4. 개발 참고 사이트
-
-- https://docs.coronalabs.com/
-
 ### 5. 맡은 게임 개발 파트
 
 - 인터넷 로그인 게임
