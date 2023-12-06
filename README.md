@@ -1,4 +1,5 @@
 # Computer-Escape
+![image](https://github.com/hyjang14/Computer-Escape/assets/126192446/37f1d871-a5c6-46cf-b93c-fce94583a7d8)
 
 ## 🖥️ 프로젝트 소개
 #### 주인공 파이가 컴퓨터 속에서 탈출하기 위한 모험을 그려낸 캐주얼 게임 개발 프로젝트
