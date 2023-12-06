@@ -30,10 +30,4 @@
 ## 🌐 게임 다운로드 URL
 - https://play.google.com/store/apps/details?id=com.solar2d.app.Computer_Escape&pli=1
 
-### 5. 맡은 게임 개발 파트
-
-- 인터넷 로그인 게임
-- 틀린 그림 찾기 게임
-- 탈출 엔딩
-
 
