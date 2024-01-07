@@ -1,0 +1,12 @@
+[
+	{
+		"speaker": "파이",
+		"image" :  "image/캐릭터/파이 안도.png",
+		"content" : "이제 작동하나보다."
+	},
+	{
+		"speaker": "파이",
+		"image" :  "image/캐릭터/파이 당황.png",
+		"content" : "어, 어? 이거 왜이래?! 으악!"
+	}
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "speaker" : "체리",
+        "content" : "저택은 재미있었어?",
+        "image" : "image/캐릭터/체리 기본.png"
+    },
+    {
+        "speaker" : "파이",
+        "content" : "응. 덕분에 유용해보이는 아이템도 얻었어.\n이제 탈출구를 찾아봐야겠다!",
+        "image" : "image/캐릭터/파이 결심.png"
+    },
+    {
+        "speaker" : "체리",
+        "content" : "헤어져야 한다니 아쉽다...",
+        "image" : "image/캐릭터/체리 기본.png"
+    },
+    {
+        "speaker" : "체리",
+        "content" : "그래도 무사히 돌아가길 바랄게. 잘 가!",
+        "image" : "image/캐릭터/체리 기본.png"
+    },
+    {
+        "speaker" : "체리",
+        "content" : "생각나면 다음에 또 이곳에 와 줘!",
+        "image" : "image/캐릭터/체리 기본.png"
+    },
+    {
+        "speaker" : "파이",
+        "content" : "응, 잘 있어. 고마웠어!",
+        "image" : "image/캐릭터/파이 웃음.png"
+    },
+    {
+        "speaker" : "파이",
+        "content" : "이제 탈출을 위한 준비가 끝난 것 같다.\n우선 게임을 나가보자.",
+        "image" : "image/캐릭터/파이 결심.png"
+    }
+]

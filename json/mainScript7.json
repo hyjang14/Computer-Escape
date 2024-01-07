@@ -1,0 +1,17 @@
+[
+	{
+		"speaker": "파이",
+		"content" : "잠깐. 지금 괴물이 들어간 게... 게임? 저기에 뭔가 있나?",
+		"image" : "image/캐릭터/파이 기본.png"
+	},
+	{
+		"speaker": "파이",
+		"content" : "으, 무서운데... 그래도 도움이 될 만한 게 있을지도 몰라.",
+		"image" : "image/캐릭터/파이 웃음.png"
+	},
+	{
+		"speaker": "파이",
+		"content" : "일단 쫓아가 보자.",
+		"image" : "image/캐릭터/파이 결심.png"
+	}
+]

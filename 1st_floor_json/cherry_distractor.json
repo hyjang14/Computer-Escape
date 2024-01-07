@@ -1,0 +1,27 @@
+[
+    {
+        "speaker" : "체리",
+        "content" : "이렇게 자주 이야기한 손님은 네가 처음인 것 같아.",
+        "image" : "image/캐릭터/체리 기본.png"
+    },
+    {
+        "speaker" : "체리",
+        "content" : "너도 여기 캐릭터였다면 매일 즐거울텐데...",
+        "image" : "image/캐릭터/체리 기본.png"
+    },
+    {
+        "speaker" : "체리",
+        "content" : "그렇지?",
+        "image" : "image/캐릭터/체리 신남.png" 
+    },
+    {
+        "speaker" : "체리",
+        "content" : "정말? 다행이다! 난 네가 정말 좋아, 파이!",
+        "image" : "image/캐릭터/체리 신남.png"
+    },
+    {
+        "speaker" : "체리",
+        "content" : "응, 그렇지...정말 아쉽다..",
+        "image" : "image/캐릭터/체리 기본.png"
+    }
+]

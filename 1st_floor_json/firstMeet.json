@@ -1,0 +1,132 @@
+[
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 놀람.png",
+		"content" : "어라? 너는 이 게임의 캐릭터가 아니네?"
+	},
+	{
+		"speaker": "파이",
+		"image" :  "image/캐릭터/파이 당황.png",
+		"content" : "어, 맞아...! 어떻게 알았어?"
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 기본.png",
+		"content" : "보면 알지. 난 이 게임의 가이드인 ‘체리’라고 해."
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 기본.png",
+		"content" : "넌 누구야?"
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 기본.png",
+		"content" : "난 파이라고 해."
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 기본.png",
+		"content" : "안녕, 파이! 여기엔 어쩌다 온 거야?"
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 기본.png",
+		"content" : "사실.. 난 이 컴퓨터의 주인이야."
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 기본.png",
+		"content" : "어쩌다 보니 컴퓨터에 빨려들어와서 탈출 방법을 찾는 중이야."
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 놀람.png",
+		"content" : "뭐?? 그런 게 가능해?"
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 웃음.png",
+		"content" : "나도 몰라."
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 기본.png",
+		"content" : "아무튼 탈출 단서를 찾고 있었는데, 이상한 게 나타나더니 여기로 들어오더라고."
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 기본.png",
+		"content" : "꼭 괴물처럼 생겼던데..."
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 기본.png",
+		"content" : "이상한 괴물? 어, 설마 백신 아니야?"
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 기본.png",
+		"content" : "네가 밖에서 온 게 맞다면, 백신이 널 침입자로 생각하고 찾아다니는 건지도 몰라."
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 당황.png",
+		"content" : "백신?! 빨리 단서를 찾아 나가야 하는데... 백신에게 잡히면 어떻게 되는 거야?"
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 기본.png",
+		"content" : "백신이니까... 침입자는 없애겠지."
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 당황.png",
+		"content" : "그럼 죽는 거잖아! 안 돼! 뭔가 방법이 없을까...?"
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 기본.png",
+		"content" : "음... 아! 이 게임을 한 번 해 보는 건 어때?"
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 당황.png",
+		"content" : "이 게임?"
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 신남.png",
+		"content" : "네가 들어온 이 게임 말이야!"
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 기본.png",
+		"content" : "원래 이 게임은 저택의 방에서 여러 아이템을 얻을 수 있거든."
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 신남.png",
+		"content" : "어쩌면 이 저택에서 너에게 도움이 될 만한 걸 찾을지도 몰라."
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 안도.png",
+		"content" : "그래?"
+	},
+	{
+		"speaker": "체리",
+		"image" : "image/캐릭터/체리 기본.png",
+		"content" : "응! 저택 2층에 있는 방들을 뒤져봐!"
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 웃음.png",
+		"content" : "알았어. 알려줘서 고마워!"
+	},
+	{
+		"speaker": "파이",
+		"image" : "image/캐릭터/파이 결심.png",
+		"content" : "체리가 말해준 대로 2층으로 올라가 봐야겠어."
+	}
+]

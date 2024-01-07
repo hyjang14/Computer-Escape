@@ -1,0 +1,42 @@
+[
+    {
+        "speaker" : "체리",
+        "content" : "파이••• 역시 넌 다른 손님들과 달라. 너랑 헤어지기 싫어.",
+        "image" : "image/캐릭터/체리 리본.png"
+    },
+    {
+        "speaker" : "파이",
+        "content" : "나도 너랑 헤어지기 싫다.",
+        "image" : "image/캐릭터/파이 기본.png"
+    },
+    {
+        "speaker" : "체리",
+        "content" : "그럼 여기서 나랑 같이 사는 건 어때? 응?",
+        "image" : "image/캐릭터/체리 리본.png"
+    },
+    {
+        "speaker" : "파이",
+        "content" : "...어?",
+        "image" : "image/캐릭터/파이 당황.png"
+    },
+    {
+        "speaker" : "체리",
+        "content" : "너도 여기가 마음에 들지?",
+        "image" : "image/캐릭터/체리 리본.png"
+    },
+    {
+        "speaker" : "체리",
+        "content" : "나랑 얘기하는 거 좋아하잖아!",
+        "image" : "image/캐릭터/체리 리본.png"
+    },
+    {
+        "speaker" : "체리",
+        "content" : "나랑 평생 여기서 살자, 파이!!",
+        "image" : "image/캐릭터/체리 리본.png"
+    },
+    {
+        "speaker" : "파이",
+        "content" : " ..... 좋아.",
+        "image" : "image/캐릭터/파이 결심.png"
+    }
+]
